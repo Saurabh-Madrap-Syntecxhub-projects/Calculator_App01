@@ -129,9 +129,3 @@ B.Tech IT | Android Learner | Software Developer
 
 If you like this project, consider giving it a ⭐ on GitHub!
 
-
-<img width="393" height="694" alt="image" src="https://github.com/user-attachments/assets/f2a9a60a-57a5-4ab3-81f5-32d80a832f62" />
-<img width="389" height="729" alt="image" src="https://github.com/user-attachments/assets/35fdcd1e-a69a-40d3-8b19-6afb0fbb636a" />
-<img width="396" height="693" alt="image" src="https://github.com/user-attachments/assets/68b9851f-5767-4f4b-8bc6-d6b08083cd07" />
-
-
